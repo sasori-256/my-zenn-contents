@@ -8,6 +8,10 @@ published: true
 
 この記事は, [MMAアドベントカレンダーAdvent Calendar 2024](https://adventar.org/calendars/10770) 12日目の記事です.
 
+パート1にあたる記事はteam411アドベントカレンダーで公開しているので, まだ見ていない人はぜひ見ていってください.
+
+https://zenn.dev/team411/articles/0ac74ab0d9ef58
+
 # はじめに
 
 カフェイン片手にご機嫌麗しゅう.
