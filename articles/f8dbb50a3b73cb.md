@@ -102,7 +102,11 @@ Vim上で新しいタブを開けます. `:e hogehoge.hoge`でhogehoge.hogeな�
 
 まず紹介するのは基本中の基本, NeovimのプラグインマネージャーLazy-Vimです.
 
+https://zenn.dev/siteyo/articles/980b6205e93914
+
 このプラグインマネージャーでは, 既に色々な機能がついている他にもプラグインのロードする順番やタイミングを設定でき, 起動スピードを爆速にできます(私はまだできてませんが).
+
+https://zenn.dev/yuucu/articles/lazy_nvim_tuning
 
 初心者でも簡単にNeovimをリッチにでき, 将来起動スピードが気になり始めるとしてもすぐに設定できるのでおすすめです.
 
