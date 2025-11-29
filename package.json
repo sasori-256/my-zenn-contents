@@ -1,6 +1,7 @@
 {
-  "name": "zenn_contents",
+  "name": "my_zenn_contents",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -8,8 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "zenn-cli": "^0.2.10"
+  "packageManager": "pnpm@10.11.0",
+  "devDependencies": {
+    "textlint": "^14.7.1",
+    "textlint-rule-preset-ja-spacing": "^2.4.3",
+    "textlint-rule-preset-ja-technical-writing": "^12.0.2",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0",
+    "zenn-cli": "^0.1.159"
   }
 }
